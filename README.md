@@ -1,1 +1,2 @@
-# hw2w25
+# hw2_simple_css
+Starter code for simple css assignment
